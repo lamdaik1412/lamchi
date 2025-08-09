@@ -883,7 +883,7 @@ var _0x30e6c9 = _0x32a9;
     });
     _0x4ba4ec("#clock")[_0x5053fe(0xbc)] &&
       _0x4ba4ec(_0x5053fe(0x115))[_0x5053fe(0x188)](
-        "2025-08-17 10:00:00",
+        "2025-08-16 16:00:00",
         function (_0x33aae9) {
           var _0x4138f1 = _0x5053fe,
             _0x3bd5d3 = _0x4ba4ec(this)["html"](
@@ -915,7 +915,7 @@ var _0x30e6c9 = _0x32a9;
       );
     _0x4ba4ec(_0x5053fe(0x1af))[_0x5053fe(0xbc)] &&
       _0x4ba4ec(_0x5053fe(0x1af))[_0x5053fe(0x188)](
-        "2025-08-17 10:00:00",
+        "2025-08-16 16:00:00",
         function (_0x18154e) {
           var _0x470553 = _0x5053fe,
             _0x59003a = _0x4ba4ec(this)["html"](
@@ -1606,7 +1606,7 @@ function _0x3663() {
     "animate",
     "html",
     "slides",
-    "2025-08-17 10:00:00",
+    "2025-08-16 16:00:00",
     '<div class="box"><div><div class="time">%H</div> <span>Giờ</span> </div></div>',
     "sticky-on",
     ".reveal3",
